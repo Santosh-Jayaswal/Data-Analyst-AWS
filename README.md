@@ -28,20 +28,17 @@ This document is about analyzing the Vancouver Trees Dataset, which shows the nu
   
       iii.    **Data Analysing**: We have used AWS Athena to write SQL Query for extracting insights.
 
+  ![Picture2](https://github.com/user-attachments/assets/f383e04b-d4f0-4f1d-8135-9611e64e64fe)
 
-![Picture2](https://github.com/user-attachments/assets/f383e04b-d4f0-4f1d-8135-9611e64e64fe)
-
-
-
-    iv.    **Insights and Findings**: Streets like Macdonald and Alberta are identified as the most popular locations of the Vancouver where municipality need to 
+      iv.    **Insights and Findings**: Streets like Macdonald and Alberta are identified as the most popular locations of the Vancouver where municipality need to 
       focus a maintain fostering enviornment equity.
 
-v.    **Data Encryption**: Its important to keep data secure and KMS is a best service which provide a key using it we can protect our S3 bucket from hackers or 
+      v.    **Data Encryption**: Its important to keep data secure and KMS is a best service which provide a key using it we can protect our S3 bucket from hackers or 
       breaching.
 
- vi.    **Monitoring and Controlling Operation**: AWS has variety of services to serve particular perpose. For this, we have used CloudWatch service to create 
+      vi.    **Monitoring and Controlling Operation**: AWS has variety of services to serve particular perpose. For this, we have used CloudWatch service to create 
       dashboard where we contineously monitor the cost, bucket size, and logs of error of ETL job.
 
 
 
-6.    **Tool and Technology**: In this project we have only used AWS Cloud Services, S3 for storing and retrieving data, Glue and Data Brew for ETL job, Athena to extracting business insights, KMS for encrypting data, and CloudWatch for monitoring and controling to make operation smooth and secure.
+7.    **Tool and Technology**: In this project we have only used AWS Cloud Services, S3 for storing and retrieving data, Glue and Data Brew for ETL job, Athena to extracting business insights, KMS for encrypting data, and CloudWatch for monitoring and controling to make operation smooth and secure.
