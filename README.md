@@ -18,7 +18,12 @@ This document is about analyzing the Vancouver Trees Dataset, which shows the nu
 
     •	NEIGHBOURHOOD_NAME: The local area in Vancouver where the tree is found.
 
+5.    Methodology:
 
+    a)    Data Collection and Preparation: After downloading the CSV data, we moved raw file into /raw directory under AWS S3 bucket in order to perform cleaning and
+    transforming process with the help AWS DataBrew. We removed null values, duplicates to maintain consistencies in the data. And then moved cleaned data back into S3
+    /transform directory in S3 bucket.
+    b)    
 
 
 
