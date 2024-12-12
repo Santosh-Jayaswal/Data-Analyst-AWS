@@ -35,8 +35,7 @@ This document is about analyzing the Vancouver Trees Dataset, which shows the nu
       breaching.
 
       vi.    **Monitoring and Controlling Operation**: AWS has variety of services to serve particular perpose. For this, we have used CloudWatch service to create 
-      dashboard where we contineously monitor the cost, bucket size, and logs of error of ETL job.
-
+      dashboard where we contineously monitor the cost, bucket size, and logs of error of ETL job.![Picture1](https://github.com/user-attachments/assets/0612bec7-263a-45e5-bc65-712158b40847)
 
 
 7.    **Tool and Technology**: In this project we have only used AWS Cloud Services, S3 for storing and retrieving data, Glue and Data Brew for ETL job, Athena to extracting business insights, KMS for encrypting data, and CloudWatch for monitoring and controling to make operation smooth and secure.
