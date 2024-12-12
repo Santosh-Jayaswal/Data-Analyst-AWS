@@ -20,8 +20,9 @@ This document is about analyzing the Vancouver Trees Dataset, which shows the nu
 
 5.    Methodology:
 
-  i.    Data Collection and Preparation: After downloading the CSV data, we moved raw file into _raw_ directory under AWS S3 bucket in order to perform cleaning and
-    transforming process with the help AWS DataBrew. We removed null values, duplicates to maintain consistencies in the data. And then moved cleaned data back into S3
+      i.    Data Collection and Preparation: After downloading the CSV data, we moved raw file into _raw_ directory under AWS S3 bucket in order to perform cleaning and
+      transforming process with the help AWS DataBrew. We removed null values, duplicates to maintain consistencies in the data. And then moved cleaned data back into
+      S3
     _transform_ directory in S3 bucket. 
 
 
