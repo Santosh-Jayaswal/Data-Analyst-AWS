@@ -2,7 +2,8 @@
 
 This document is about analyzing the Vancouver Trees Dataset, which shows the number of trees of specific species planted on different streets in Vancouver (Street Trees, 2024). For this analysis, we will use AWS Cloud Platform considering data analytics tools such as Glue, Data Brew, and S3 to process the data. First, we will load the raw data into S3 (ingestion). Then, we will clean and profile the data using Data Brew to remove any missing values, duplicates, or unnecessary columns, ensuring the data is ready for analysis. Finally, we will design an ETL pipeline using AWS Glue to transform and extract actionable insights. The following image illustrates the operational workflow: 
 
-![pipeline](https://github.com/user-attachments/assets/2868bee5-0dfe-45e5-8941-596b284754cb)
+![pipeline](https://github.com/user-attachments/assets/2a54eaff-4125-4aff-9800-ded6779af2ea)
+
 
 
 # Descriptive Analytics
