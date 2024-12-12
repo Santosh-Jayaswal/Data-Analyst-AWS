@@ -9,10 +9,12 @@ This document is about analyzing the Vancouver Trees Dataset, which shows the nu
 2. **Project Title**: Highlighting popular street having trees.
 3. **Objective**: This data can help the city prioritize streets with greater capacity for trees get sufficient attention for maintenance such as watering, pruning, pest control while promoting environmental equity
 4. **Dataset**: This dataset has certain attributes that describe
-   •	TREE_ID: A unique ID for each tree.
-   •	STD_STREET: The name of the street where the tree is located.
-   •	SPECIES_NAME: The type of tree.
-   •	NEIGHBOURHOOD_NAME: The local area in Vancouver where the tree is found.
+
+•	TREE_ID: A unique ID for each tree.
+•	STD_STREET: The name of the street where the tree is located.
+•	SPECIES_NAME: The type of tree.
+•	NEIGHBOURHOOD_NAME: The local area in Vancouver where the tree is found.
+
 
 
 
